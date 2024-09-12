@@ -91,7 +91,6 @@ $ getrue --singlenode  console
 
 Specifying the `--singlenode` flag, however, will reconfigure your Geth instance a bit:
 
-11
 
  * singlenode network uses different network ID `400`
  * Instead of connecting the main or test TrueChain network, the client has no peers, and generate fast block without committee.
